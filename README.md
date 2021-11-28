@@ -1,4 +1,4 @@
-## Hello there! I am Otto. I design and develop software products.
+# Hello there! I am Otto 👋🏻
 
 I'm a master's student at Aalto University majoring in Human-Computer Interaction. I enjoy creating and building things that people use, experience and interact with.
 

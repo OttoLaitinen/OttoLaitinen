@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there!
+
+I'm a master's student at Aalto University majoring in Human-Computer Interaction. I enjoy creating and building things that people use, experience and interact with.
+
+I've liked tinkering and experimenting with technology and gadgets for as long as I can remember. I finally found programming when I was 16 and fell in love with the constant creative problem-solving coding made me do. During my university studies, I've realised that I get the most kicks out of creating software and solving problems that are close to the end-user.
+
+For me, a user interacting and using the software or product ties the world of engineering to reality. I strive for putting this passion for a good user experience into use when designing and developing software.
+
+In my free time, when I am not getting frustrated at badly designed light switches, I play tennis competitively and try to catch light in interesting ways through photography.
 
 <!--
 **OttoLaitinen/OttoLaitinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

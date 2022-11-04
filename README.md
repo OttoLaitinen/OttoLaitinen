@@ -1,6 +1,6 @@
 # Hello there! I am Otto 👋🏻
 
-In short, I design and develop software products. Currently working as a Software Engineer @mindlercare.
+In short, I design and develop software products. I'm currently working as a Software Engineer @mindlercare.
 
 I'm also a master's student at Aalto University majoring in Human-Computer Interaction. I enjoy creating and building things that people use, experience and interact with.
 

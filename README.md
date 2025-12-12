@@ -1,6 +1,6 @@
 # Hello there! I am Otto 👋🏻
 
-In short, I design and develop software products. I'm currently working as a Software Engineer @zenniz.
+In short, I design and develop software products. I'm currently working as a Software Engineer at [Zenniz](https://zenniz.com/).
 
 I enjoy creating and building things that people use, experience and interact with.
 
